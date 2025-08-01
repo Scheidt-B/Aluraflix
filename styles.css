@@ -2,7 +2,7 @@ body {
     color: white;
     background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Rubik Wet Paint", system-ui;
     margin-bottom: 100px;
 }
 
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(160, 99, 125);
+    background: rgb(77, 1, 1);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -58,3 +58,6 @@ p {
 .categoria h2 {
     color: rgb(255, 0, 0);
 }
+
+  
+  
